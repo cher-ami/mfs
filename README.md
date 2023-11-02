@@ -5,13 +5,13 @@
 ## Installation
 
 ```shell
-npm install @wbe/mfs
+npm install @cher-ami/mfs
 ```
 
 ## Usage
 
 ```js
-import { * as mfs } from '@wbe/mfs';
+import { * as mfs } from '@cher-ami/mfs';
 
 (async () => {
   // create a new file in a non-existing directory

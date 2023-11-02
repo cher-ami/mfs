@@ -7,6 +7,6 @@ export default defineConfig({
   minify: true,
   dts: true,
   format: ["cjs", "esm"],
-  name: "@wbe/mfs",
+  name: "@cher-ami/mfs",
   sourcemap: true,
 })

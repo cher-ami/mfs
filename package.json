@@ -1,5 +1,5 @@
 {
-  "name": "@wbe/mfs",
+  "name": "@cher-ami/mfs",
   "version": "0.2.0",
   "description": "nodejs fs wrapper",
   "author": "Willy Brauner",
@@ -12,7 +12,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git://github.com/willybrauner/mfs.git"
+    "url": "git://github.com/cher-ami/mfs.git"
   },
   "files": [
     "dist"
